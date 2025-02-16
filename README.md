@@ -31,7 +31,7 @@ You'll need a CurseForge API key to use this script. You can obtain one from the
 
 1. Run the script:
    ```bash
-   python modpackforge.py
+   python modpackbuilder.py
    ```
 
 2. Follow the prompts:
